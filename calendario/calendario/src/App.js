@@ -16,7 +16,7 @@ class App extends Component {
       {
         start: moment().toDate(),
         end: moment().add(1, "days").toDate(),
-        title: "Some title",
+        title: "Joga class",
       },
     ],
   };
